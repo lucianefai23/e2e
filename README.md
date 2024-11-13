@@ -12,7 +12,7 @@ When execute this command npm init wdio return error:  Missing script: "wdio"
 It is necessary to execute this command to allowed to run the tests: 
 In prompt command like "administrator" execute this command: 
 - Get-ExecutionPolicy
-After 
+ 
 - Set-ExecutionPolicy RemoteSigned
 
 ## Setup allure reports
