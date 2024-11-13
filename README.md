@@ -4,7 +4,7 @@ Tests E2E using WebdriverIO
 - NodeJS: https://nodejs.org/en/download
 - npm
 ## Initial setup
-npm init wdio
+npm install
 npm run wdio
 
 ## Aditional informations:
