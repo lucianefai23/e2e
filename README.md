@@ -16,7 +16,7 @@ After
 - Set-ExecutionPolicy RemoteSigned
 
 ## Setup allure reports
-npm install -g allure-commandline --save-dev
-• npm install @wdio/allure-reporter --save-dev
-• allure generate allure-results && allure open
+- npm install -g allure-commandline --save-dev
+- npm install @wdio/allure-reporter --save-dev
+- allure generate allure-results && allure open
 
